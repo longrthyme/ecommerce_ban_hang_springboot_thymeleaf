@@ -4,9 +4,9 @@ Website bán giày spring boot, thymeleaf , thanh toán vnpay online, đồ án
  Source code đồ án website bán giày Spring Boot, Thymeleaf , Mysql tích hợp thanh toán ví diện tử vnpay thanh toán trực tuyến  , đồ án fpt polytechnic, fptu, đồ án tốt nghiệp
 
 
-LIEN HE ZALO : 0966494923
+LIEN HE **ZALO** : **0966494923**
 
-HOAC TELEGRAM : hngquoc65
+HOAC **TELEGRAM** : **hngquoc65**
  
 HOAC : https://sharecode.vn/source-code/source-code-do-an-website-ban-giay-spring-boot-thymeleaf-40793.htm
 
@@ -44,7 +44,7 @@ Bảo mật đăng nhập đăng nhập     ·
 Quản lý hóa đơn, quản lý tài khoản,...  
  
 
-Cài đặt liên hệ qua email or zalo để được hỗ trợ : 0966494923 
+Cài đặt liên hệ qua email or **zalo** để được hỗ trợ : **0966494923** 
 
  
 
