@@ -4,9 +4,12 @@ Website bán giày spring boot, thymeleaf , thanh toán vnpay online, đồ án
  Source code đồ án website bán giày Spring Boot, Thymeleaf , Mysql tích hợp thanh toán ví diện tử vnpay thanh toán trực tuyến  , đồ án fpt polytechnic, fptu, đồ án tốt nghiệp
 
 
+FULL **DEMO** VIDEO : **https://www.youtube.com/watch?v=rL2xbvG3lU0&t=555s**
+
 LIEN HE **ZALO** : **0966494923**
 
 HOAC **TELEGRAM** : **hngquoc65**
+
  
 HOAC : https://sharecode.vn/source-code/source-code-do-an-website-ban-giay-spring-boot-thymeleaf-40793.htm
 
